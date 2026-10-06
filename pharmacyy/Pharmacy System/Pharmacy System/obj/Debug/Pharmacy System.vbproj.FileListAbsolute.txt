@@ -1,0 +1,58 @@
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe.config
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.pdb
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.xml
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.LoginForm.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Resources.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.exe
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.xml
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.pdb
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.DispenseToPatientsForm.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.InventoryReportForm.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.IssueToDispensingAreaForm.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.MainMenuForm.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.ManageRecordsForm.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.ReceiveDrugsInStoreForm.resources
+C:\Users\USER\Desktop\IS\pharmacy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.SalesReportForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe.config
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.pdb
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.xml
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.DispenseToPatientsForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.InventoryReportForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.IssueToDispensingAreaForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.LoginForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.MainMenuForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.ManageRecordsForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Resources.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.ReceiveDrugsInStoreForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.SalesReportForm.resources
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.exe
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.xml
+C:\Users\USER\Desktop\IS\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.pdb
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe.config
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.pdb
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.xml
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.exe.config
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.DispenseToPatientsForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.InventoryReportForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.IssueToDispensingAreaForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.LoginForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.MainMenuForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.ManageRecordsForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Resources.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.ReceiveDrugsInStoreForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.SalesReportForm.resources
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.exe
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.xml
+C:\Users\HP\Desktop\pharmacyy\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.pdb
